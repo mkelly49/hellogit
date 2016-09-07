@@ -10,7 +10,9 @@
 using namespace std;
 
 int main() {
-	auto str = "Hello, world!";
-	cout << str << endl;
+	auto str1 = "Hello, world!";
+	auto str2 = "and hello moon!";
+	cout << str1 << endl;
+	cout << str2 << endl;
 	return 0;
 }
